@@ -6,8 +6,4 @@ Brain tumor detection with mobileNet &amp; MobileNetV2 U_Net
 
 
 
-
-
-
-
 <img width="325" height="151" alt="image" src="https://github.com/user-attachments/assets/445bcc10-49d6-434a-8865-826f53536d4b" />
